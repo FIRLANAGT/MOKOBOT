@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="https://media.discordapp.net/attachments/915211360483299329/961983829944455168/anime-love-anime-hearts.gif" width="120" alt="moko Logo" /></a>
+  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="https://media.discordapp.net/attachments/915211360483299329/961983829944455168/anime-love-anime-hearts.gif" width="250" alt="moko Logo" /></a>
 </p>
 
 <p align="center">A high quality <a href="http://discord.gg" target="_blank">Discord</a> Bot to grow your Server.</p>
 <p align="center">
 
-# Bottodir - Utility Discord
+# Moko - Utility Discord
 Nothing can go wrong with someone like Bottodir, what are you waiting for?
   
 ## Guild Setup
