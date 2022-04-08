@@ -1,5 +1,5 @@
 {
-  "name": "bottodir",
+  "name": "MOKO",
   "version": "7.0.0",
   "description": "Utility discord to the mooon",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "deploy": "node ./src/deployCommands.js",
     "dev": "nodemon index.js"
   },
-  "author": "GirlsFromPanema",
+  "author": "! VRZ.",
   "license": "Apache-2.0",
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
