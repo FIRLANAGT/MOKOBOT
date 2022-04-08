@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="https://media.discordapp.net/attachments/937035004108742657/939450995228954625/42b8f1ff89a307e6d969bb13726b9a45.webp" width="120" alt="Bottodir Logo" /></a>
+  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="https://media.discordapp.net/attachments/915211360483299329/961983829944455168/anime-love-anime-hearts.gif" width="120" alt="moko Logo" /></a>
 </p>
 
 <p align="center">A high quality <a href="http://discord.gg" target="_blank">Discord</a> Bot to grow your Server.</p>
@@ -9,7 +9,7 @@
 Nothing can go wrong with someone like Bottodir, what are you waiting for?
   
 ## Guild Setup
-> Click [here to invite Bottodir](https://discord.com/api/oauth2/authorize?client_id=838730162283216968&permissions=1644972474359&scope=bot%20applications.commands).
+> Click [here to invite moko](https://discord.com/api/oauth2/authorize?client_id=961897913380925460&permissions=8&scope=bot).
 * Make sure to add the highest role/permissions possible to be able to use all commands.
 
 > Features && Commands
